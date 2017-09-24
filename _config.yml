@@ -1,0 +1,18 @@
+title: Jane | Always on Virtual Assistant
+email: naseeme2b@gmail.com
+description: Jane is an open-source platform built specifically for voice-controlled application as well as to automate daily tasks imitating much of an virtual assistant's work.
+
+product_title: Jane
+
+about_me:
+  nickname: Brain of Jane
+  subtitle: Linux is the key to building sucess.
+  name: Naseem Benjelloun
+  motto: There is No System but GNU, and Linux is one of it's kernels.
+  title: A little about 'me'
+  todo: Build Carrot Linux
+  github_link: http://github.com/naseeme2b
+  description: Alright so jokes aside, I made Jane along with my other AIs, (Friday, Vision, Alfred.) for actually, no main reason, I woke up one day thinking what it would be like to put it togehter myself, to acomplish a project that would actually respond to me when I talk to it. So that is what I did, I made Assistants, to help with my day to day life in programming, to automate my Linux Desktop, and most importantly tell me jokes.
+
+
+theme: jekyll-theme-cayman
